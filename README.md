@@ -2,8 +2,10 @@
 
 ##Scenario
 
-Find out the actual TPS for if 120000 user can give load for 12 hour
-Perform load test on this URL: https://random-data-api.com/api/v2/users
+Finding out the actual TPS for if 120000 user can give load for 12 hour
+Performing load test and also finding out the bottleneck/stress test pointon this URL: https://random-data-api.com/api/v2/users
+
+
 
 ##Load Test
 
