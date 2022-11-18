@@ -1,13 +1,11 @@
-# Random-User-API-Performance-Test
-
-##Scenario
+# Scenario
 
 Finding out the actual TPS for if 120000 user can give load for 12 hour
 Performing load test and also finding out the bottleneck/stress test pointon this URL: https://random-data-api.com/api/v2/users
 
 
 
-##Load Test
+# Load Test
 
 Documentation: https://docs.google.com/spreadsheets/d/19UGvI0jrJ9QCOdb2RmxC_UVZFAY_omKcX2Mkv5EBzP4/edit?usp=sharing
 
@@ -15,7 +13,7 @@ Screenshot: https://user-images.githubusercontent.com/40532866/194029561-fca123b
 
 
 
-#Stress Test
+# Stress Test
 
 Documentation: https://docs.google.com/spreadsheets/d/1LqHZhc2Utg_mbI2klsSxc8_fpb3y8NtUm9PWX9WXSng/edit?usp=sharing
 
